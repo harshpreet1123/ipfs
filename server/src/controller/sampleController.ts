@@ -1,4 +1,4 @@
-import SampleModel, { ISample } from "../model/smaple";
+import SampleModel, { ISample } from "../model/smaple"
 
 const sampleController = async (req: any, res: any) => {
   try {
